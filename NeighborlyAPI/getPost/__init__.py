@@ -1,3 +1,4 @@
+import os
 import azure.functions as func
 import pymongo
 import json
